@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=OmarChouchane)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Chouchane!;" />
@@ -7,6 +6,7 @@
 <h3 align="center">Full-Stack Developer • AI Enthusiast • Passionate about building meaningful software</h3>
 
 <br/>
+![](https://komarev.com/ghpvc/?username=OmarChouchane)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OmarChouchane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
