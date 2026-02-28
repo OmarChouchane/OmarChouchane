@@ -6,7 +6,6 @@
 <h3 align="center">Full-Stack Developer • AI Enthusiast • Passionate about building meaningful software</h3>
 
 <br/>
-![](https://komarev.com/ghpvc/?username=OmarChouchane)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OmarChouchane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
