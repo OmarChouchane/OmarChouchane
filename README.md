@@ -52,7 +52,6 @@
 
   <!-- Security / DevSecOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="SonarQube" />
-  <img src="https://www.svgrepo.com/show/354387/snyk.svg" height="40" alt="Snyk" />
 
   <!-- OS / Networking -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
